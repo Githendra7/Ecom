@@ -24,13 +24,13 @@ https://reactjs-ecommerce-app.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/Githendra7/Ecom.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd Ecom
 ```
 
 Install dependencies
@@ -49,10 +49,10 @@ Start the server
 
 ## Tech Stack
 
-* [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Fake Store API](https://fakestoreapi.com/)
+* [React]
+* [Redux]
+* [Bootstrap]
+* [Fake Store API]
 
 ## Contributing
 
